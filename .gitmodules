@@ -1,0 +1,3 @@
+[submodule "extern/SymbolicCpp"]
+	path = extern/SymbolicCpp
+	url = https://github.com/certik/SymbolicCpp
